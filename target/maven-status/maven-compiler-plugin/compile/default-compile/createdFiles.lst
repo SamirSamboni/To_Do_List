@@ -1,0 +1,12 @@
+com\mundo\lista\Persistencia.class
+com\mundo\lista\Lista.class
+Servlets\SvLogeo.class
+com\mundo\lista\Usuarios.class
+Servlets\SvEliminarEditar.class
+com\mundo\lista\Serializacion.class
+com\mundo\lista\Metodos.class
+com\mundo\lista\Lista$Nodo.class
+com\mundo\lista\resources\JavaEE8Resource.class
+Servlets\SvRegistro.class
+com\mundo\lista\JAXRSConfiguration.class
+com\mundo\lista\Tareas.class
